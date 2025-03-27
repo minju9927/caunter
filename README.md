@@ -1,1 +1,1 @@
-# caunter
+# counter
